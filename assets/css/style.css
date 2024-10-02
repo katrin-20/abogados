@@ -2105,7 +2105,7 @@ hr {
   padding: 20px; 
 }
 .location-section {
-  background-color: #e0cd20;; 
+  background-color: #f7f6f1;; 
   padding: 20px;
   border-radius: 8px; 
   box-shadow: 0 4px 8px rgba(117, 117, 95, 0.808); 
@@ -2322,6 +2322,7 @@ hr {
 
 .legal-practice-area .single-practice .practice-img {
   position: relative;
+  
 }
 .legal-practice-area .single-practice .practice-img img {
   width: 100%;
@@ -3053,7 +3054,7 @@ hr {
   margin-right: 8px;
 }
 .footer-area .footer-social a:hover {
-  background: #eef124;
+  background: #f7f7f5;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -3139,7 +3140,7 @@ hr {
   font-weight: 500;
 }
 .teams-area .single-teams .team-caption h4 a:hover {
-  color: #eef124
+  color: #f8f8f3
 }
 .testimonial-area {
   background-size: cover;
