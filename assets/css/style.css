@@ -2430,6 +2430,10 @@ hr {
   -ms-border-radius: 2px;
   -o-border-radius: 2px;
 }
+.foto1{
+  width: 1000px;
+  height: 200px;
+}
 .section-tittle h2::after {
   content: "";
   position: absolute;
@@ -2805,7 +2809,7 @@ hr {
   background-repeat: no-repeat;
 }
 .contact-form .form-wrapper {
-  margin-top: -160px;
+  margin-top: -1px;
   background: #fff;
   padding: 73px 106px 69px 122px;
 }
